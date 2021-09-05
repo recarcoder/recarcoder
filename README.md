@@ -2,6 +2,6 @@
 
 🧭 I am interested in web development and machine learning .  
 
-🐍 I am learning python (*_*) . 
+🐍 I am learning python (+_+) . 
 
 
