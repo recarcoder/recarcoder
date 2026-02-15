@@ -1,5 +1,5 @@
 🙋‍♂️ Hello I am recarcoder . 
 
-🧭 I am interested in web design and machine learning .  
+🧭 I am interested in machine learning .  
 
 
